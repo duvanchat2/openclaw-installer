@@ -36,4 +36,4 @@ bash <(curl -fsSL https://raw.githubusercontent.com/contenads/openclaw-installer
 
 ## By
 
-[Duvan AI](https://contenads.site) — Automatización con IA
+[Duvan AI] https://www.youtube.com/@Duvan_AI — Automatización con IA
