@@ -217,4 +217,4 @@ systemctl daemon-reload
 
 ---
 
-**By [Duvan AI](https://contenads.site)** — Automatización con IA
+**By https://www.youtube.com/@Duvan_AI/videos
